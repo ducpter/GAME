@@ -3,6 +3,32 @@
 #include <iostream>
 
 
+bool doge::init(bool isDark)
+{
+    string shiba_path = "res/image/bird.png";
+    if (isDark) shiba_path = "res/image/bird.png";
+    if (saved_path == shiba_path)
+    {
+        posDoge.getPos(75, SCREEN_HEIGHT / 2 - 10);
+        ahead = 0;
+        angle = 0;
+    }
+    if (isNULL() || saved_path != shiba_path)
+    {
+        saved_path = shiba_path;
+        if (Load(shiba_path.c_str(), 1))
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+
+    }
+    return false;
+}
+
 void doge::Free()
 {
     free();
