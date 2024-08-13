@@ -41,7 +41,31 @@ Flappy Bird là một trò chơi điện tử đơn giản nhưng vô cùng gây
 5. **Chức năng khác**: Chơi lại, thoát game, lưu lại điểm cao,...
 
 ## Một vài hình ảnh từ game
-(bổ sung sau)
+1. **Khi bắt đầu game**
+   ![Openning](GAME/res/demo/message.png)
+2. **Khi chơi game**
+   ***Map sáng***
+      ![Ingame](GAME/res/demo/ingame_day.png)
+   ***Map tối***
+      ![Ingame](GAME/res/demo/ingame_night.png)
+   ***pause_tab có thể điều chỉnh map sáng tối và bật tắt âm thanh***
+      ****pause_tab với map sáng****
+         ![pause_tab](GAME/res/demo/pause_tab_music_on.png)
+      ****pause_tab với map tối****
+         ![pause_tab](GAME/res/demo/pause_tab_nightmode.png)
+      ****pause_tab với âm thanh bật****
+         ![pause_tab](GAME/res/demo/pause_tab_music_on.png)
+      ****pause_tab với âm thanh tắt****
+         ![pause_tab](GAME/res/demo/pause_tab_music_off.png)
+3. **Khi kết thúc**
+   ***Huy chương cổ vũ***
+      ![Ending](GAME/res/demo/co_vu.png)
+   ***Huy chương bạc***
+      ![Ending](GAME/res/demo/huychuongbac.png)
+   ***Huy chương vàng***
+      ![Ending](GAME/res/demo/Huychuongvang.png)
+   
+
 ## Các kỹ thuật được sử dụng
 - Thư viện **SDL2** (hình ảnh, âm thanh, font chữ).
 - Tạo và quản lý nhiều đối tượng như: con chim, background, menu,...
