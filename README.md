@@ -41,7 +41,9 @@ Flappy Bird là một trò chơi điện tử đơn giản nhưng vô cùng gây
 5. **Chức năng khác**: Chơi lại, thoát game, lưu lại điểm cao,...
 
 ## Một vài hình ảnh từ game
-(bổ sung sau)
+1. **Khi bắt đầu game**
+   ![Openning](GAME/res/demo/message.png)
+
 ## Các kỹ thuật được sử dụng
 - Thư viện **SDL2** (hình ảnh, âm thanh, font chữ).
 - Tạo và quản lý nhiều đối tượng như: con chim, background, menu,...
