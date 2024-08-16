@@ -9,6 +9,13 @@
 ## Lời nói đầu
 Flappy Bird là một trò chơi điện tử đơn giản nhưng vô cùng gây nghiện, được phát triển bởi Nguyễn Hà Đông. Người chơi điều khiển một chú chim bay qua các khe hẹp giữa những chiếc ống, với mỗi lần nhấn, chú chim sẽ bay lên một chút và trọng lực sẽ kéo chú chim xuống. Mục tiêu của trò chơi là đạt được số điểm cao nhất có thể bằng cách vượt qua nhiều ống nhất mà không va chạm vào chúng. Mặc dù gameplay cực kỳ đơn giản, Flappy Bird đã trở thành một hiện tượng toàn cầu nhờ độ khó đầy thử thách và khả năng khiến người chơi luôn muốn thử lại mỗi khi thất bại.
 
+## Cách cài đặt game
+Bước 1: Clone repo 
+hoặc chọn code -> Download Zip ở link github https://github.com/ducpter/GAME
+![Ingame](GAME/res/demo/github.png)
+Bước 2: Bấm vào file GAME.sln dự án sẽ tự động mở trong Visual Studio.
+Bước 3: Bấm vào Local Windows Debugger để khởi động game
+
 ## Cách chơi game
 
 1. **Khởi động trò chơi**:
@@ -35,10 +42,12 @@ Flappy Bird là một trò chơi điện tử đơn giản nhưng vô cùng gây
 
 ## Các thông tin chi tiết
 1. **Nhân vật chính**: Flappy Bird.
+   ![Ingame](GAME/res/image/bird.png)
 2. **Vật cản**: ống nước (có tỉ lệ sẽ di chuyển được).
+   ![Ingame](GAME/res/image/pipe.png)
 3. **Cách thức điều khiển**: Sử dụng phím SPACE, chuột trái hoặc KEY_UP.
 4. **Âm thanh**: Có âm thanh mô phỏng các hành động của chú chim trong game.
-5. **Chức năng khác**: Chơi lại, thoát game, lưu lại điểm cao,...
+5. **Chức năng khác**: Chơi lại, đổi map, lưu lại điểm cao,...
 
 ## Một vài hình ảnh từ game
 1. **Khi bắt đầu game**
