@@ -63,7 +63,7 @@ Flappy Bird là một trò chơi điện tử đơn giản nhưng vô cùng gây
    ***Huy chương bạc***
       ![Ending](GAME/res/demo/huychuongbac.png)
    ***Huy chương vàng***
-      ![Ending](GAME/res/demo/Huychuongvang.png)
+      ![Ending](GAME/res/demo/huychuongvang.png)
    
 
 ## Các kỹ thuật được sử dụng
