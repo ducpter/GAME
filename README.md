@@ -19,7 +19,7 @@ Bước 3: Bấm vào Local Windows Debugger để khởi động game
 ## Cách chơi game
 
 1. **Khởi động trò chơi**:
-   - Khi bắt đầu, chú chim sẽ xuất hiện ở vị trí giữa màn hình, sẵn sàng để bay. 
+   - Khi bắt đầu, chú chim sẽ xuất hiện trên màn hình, sẵn sàng để bay. 
    - Người chơi có thể nhấn vào phím SPACE, chuột trái hoặc KEY_UP để bắt đầu.
 
 2. **Điều khiển chú chim**:
@@ -43,11 +43,13 @@ Bước 3: Bấm vào Local Windows Debugger để khởi động game
 ## Các thông tin chi tiết
 1. **Nhân vật chính**: Flappy Bird.
    ![Ingame](GAME/res/image/bird.png)
-2. **Vật cản**: ống nước (có tỉ lệ sẽ di chuyển được).
+   Và Flappy Bat
+    ![Ingame](GAME/res/image/bird-dark.png)
+3. **Vật cản**: ống nước (có tỉ lệ sẽ di chuyển được).
    ![Ingame](GAME/res/image/pipe.png)
-3. **Cách thức điều khiển**: Sử dụng phím SPACE, chuột trái hoặc KEY_UP.
-4. **Âm thanh**: Có âm thanh mô phỏng các hành động của chú chim trong game.
-5. **Chức năng khác**: Chơi lại, đổi map, lưu lại điểm cao,...
+4. **Cách thức điều khiển**: Sử dụng phím SPACE, chuột trái hoặc KEY_UP.
+5. **Âm thanh**: Có âm thanh mô phỏng các hành động của chú chim trong game.
+6. **Chức năng khác**: Chơi lại, đổi nhân vật tương ứng với map, lưu lại điểm cao,...
 
 ## Một vài hình ảnh từ game
 1. **Khi bắt đầu game**
