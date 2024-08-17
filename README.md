@@ -53,7 +53,10 @@ Bước 3: Bấm vào Local Windows Debugger để khởi động game
 
 ## Một vài hình ảnh từ game
 1. **Khi bắt đầu game**
+   ***Map sáng***
    ![Openning](GAME/res/demo/message.png)
+   ***Map tối***
+   ![Openning](GAME/res/demo/message_night.png)
 2. **Khi chơi game**
    ***Map sáng***
       ![Ingame](GAME/res/demo/ingame_day.png)
