@@ -30,6 +30,25 @@ Flappy Bird là một trò chơi điện tử đơn giản nhưng vô cùng gây
 2. Giải nén file `.zip` đã tải về (nếu chọn `Download Zip`).
 3. Mở file `GAME.sln` trong Visual Studio.
 4. Bấm vào `Local Windows Debugger` để khởi động game.
+### Cách 1: Clone repo hoặc tải về từ GitHub và chạy bằng Visual Studio
+
+1. **Clone repo hoặc tải về từ GitHub**:
+   - **Clone repo bằng terminal**:
+     - Truy cập trang GitHub của dự án tại [liên kết này](https://github.com/ducpter/GAME).
+     - Mở terminal và chạy lệnh sau để clone repo về máy:
+       ```bash
+       git clone https://github.com/ducpter/GAME.git
+       ```
+   - **Tải về dưới dạng file `.zip`**:
+     - Truy cập trang GitHub của dự án tại [liên kết này](https://github.com/ducpter/GAME).
+     - Chọn nút `Code` -> `Download Zip`.
+
+       ![GitHub Clone or Download](GAME/res/demo/github.png)
+
+2. Giải nén file `.zip` đã tải về (nếu chọn `Download Zip`).
+3. Mở file `GAME.sln` trong Visual Studio.
+4. Nhấn vào nút `Local Windows Debugger` để khởi động game.
+
 
 ### Cách 2: Tải về file .zip và chạy trực tiếp file .exe
 1. Tải file `.zip` tại [link này](https://github.com/ducpter/GAME/releases/tag/v1.0).
