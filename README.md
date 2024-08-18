@@ -1,5 +1,18 @@
 # Flappy Bird
 
+## Mục lục
+
+1. [Giới thiệu chung](#giới-thiệu-chung)
+2. [Lời nói đầu](#lời-nói-đầu)
+3. [Cách cài đặt game](#cách-cài-đặt-game)
+4. [Cách chơi game](#cách-chơi-game)
+5. [Các thông tin chi tiết](#các-thông-tin-chi-tiết)
+6. [Một vài hình ảnh từ game](#một-vài-hình-ảnh-từ-game)
+7. [Các kỹ thuật được sử dụng](#các-kỹ-thuật-được-sử-dụng)
+8. [Các nguồn tham khảo](#các-nguồn-tham-khảo)
+9. [Tổng kết](#tổng-kết)
+10. [Demo Video](#demo-video)
+
 ## Giới thiệu chung
 
 **Tên sản phẩm**: Flappy Bird  
@@ -7,27 +20,22 @@
 **MSSV**: 22024561  
 **Lớp học phần**: 2324H_INT2215_70
 
-## Demo Video
-
-Xem video demo tại [YouTube](https://www.youtube.com/watch?v=kSdAvtmIgWk).
-
 ## Lời nói đầu
 Flappy Bird là một trò chơi điện tử đơn giản nhưng vô cùng gây nghiện, được phát triển bởi Nguyễn Hà Đông. Người chơi điều khiển một chú chim bay qua các khe hẹp giữa những chiếc ống, với mỗi lần nhấn, chú chim sẽ bay lên một chút và trọng lực sẽ kéo chú chim xuống. Mục tiêu của trò chơi là đạt được số điểm cao nhất có thể bằng cách vượt qua nhiều ống nhất mà không va chạm vào chúng. Mặc dù gameplay cực kỳ đơn giản, Flappy Bird đã trở thành một hiện tượng toàn cầu nhờ độ khó đầy thử thách và khả năng khiến người chơi luôn muốn thử lại mỗi khi thất bại.
 
 ## Cách cài đặt game
-### **Cách 1: Clone repo hoặc tải về từ GitHub và chạy bằng Visual Studio**
+### Cách 1: Clone repo hoặc tải về từ GitHub và chạy bằng Visual Studio
 1. **Clone repo** hoặc chọn `Code` -> `Download Zip` tại [Github](https://github.com/ducpter/GAME).  
    ![GitHub Clone or Download](GAME/res/demo/github.png)
 2. Giải nén file `.zip` đã tải về (nếu chọn `Download Zip`).
 3. Mở file `GAME.sln` trong Visual Studio.
 4. Bấm vào `Local Windows Debugger` để khởi động game.
 
-### **Cách 2: Tải về file .zip và chạy trực tiếp file .exe**
+### Cách 2: Tải về file .zip và chạy trực tiếp file .exe
 1. Tải file `.zip` tại [link này](https://github.com/ducpter/GAME/releases/tag/v1.0).
    ![GitHub Clone or Download](GAME/res/demo/github1.png)
 2. Giải nén file đã tải về.
 3. Tìm và mở file `GAME.exe` trong thư mục đã giải nén theo đường dẫn `Flappy bird\GAME\GAME.exe` để khởi động game.
-
 
 ## Cách chơi game
 
@@ -130,3 +138,6 @@ Flappy Bird là một trò chơi điện tử đơn giản nhưng vô cùng gây
 - Phát triển chế độ Multiplayer.
 - Sử dụng AI để con chim có thể tự động vượt qua chướng ngại vật.
 
+## Demo Video
+
+Xem video demo tại [YouTube](https://www.youtube.com/watch?v=kSdAvtmIgWk).
